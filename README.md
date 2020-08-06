@@ -7,3 +7,4 @@ A curated list of research papers related to IoT.
 ## To Read
 
 - [Internet of Things: Security vulnerabilities and challenges](https://www.semanticscholar.org/paper/Internet-of-Things%3A-Security-vulnerabilities-and-Andrea-Chrysostomou/67e3aece58a89d257b9e924af951d8e36fd2b07f)
+-[The Internet of Things for Health Care: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/7113786)
