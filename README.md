@@ -1,6 +1,6 @@
-# IoT Papers
+# Paper Summaries
 
-A curated list of research papers related to IoT.
+A curated list of research papers related to medical/health applications of IoT.
 
 - [The Seven Properties of Highly Secure Devices](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/SevenPropertiesofHighlySecureDevices.pdf): Identifies seven properties of highly secure devices and demonstrate that these properties can be achieved via a proof-of-concept experiment.
 - [Open IoT Architecture for Continuous Patient Monitoring in Emergency Wards](https://www.mdpi.com/2079-9292/8/10/1074): Explores the feasibility of a oneM2M-based architecture and wearable wristbands in an emergency ward scenario. It explores the use of a publish-subscribe communication model rather than a request-response communication model. In the 'qualitive assessment' section four capabilities are considered and compared across two different approaches (notably, security was not one of these capabilities). One approach uses smart-phones as gateways - wearables connect to the smartphones, which act as a gateway to the rest of the M2M system. The other sees the wearables connected directly to WIFI and the rest of the M2M system.
