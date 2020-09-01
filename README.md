@@ -7,6 +7,8 @@ A curated list of research papers related to medical/health applications of IoT.
 
 ## Reading List
 
+Research papers and other resources that haven't been reviewed yet.
+
 - [Internet of Things: Security vulnerabilities and challenges](https://www.semanticscholar.org/paper/Internet-of-Things%3A-Security-vulnerabilities-and-Andrea-Chrysostomou/67e3aece58a89d257b9e924af951d8e36fd2b07f)
 - [The Internet of Things for Health Care: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/7113786)
 - [Medical Internet of Things and Big Data in Healthcare](https://e-hir.org/journal/view.php?id=10.4258/hir.2016.22.3.156)
