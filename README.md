@@ -8,8 +8,10 @@ A curated list of research papers related to medical/health applications of IoT.
 
 - [Medical Internet of Things and Big Data in Healthcare](https://e-hir.org/journal/view.php?id=10.4258/hir.2016.22.3.156): Provides an narrative overview that describes how IoT has impacted healthcare and related industries and will continue to impact it in the future. It argues that the IoT will shape the healthcare industry in the coming years - ultimately speculating that a new category of Digital Health Advisors will emerge - but also hints at the reverse. It states that 40% of IoT technology will be health related, which suggests the needs of the industry could drive innovation with regards to IoT technology.
 
+- [Internet of Things Architectures, Technologies, Applications, Challenges, and Future Directions for Enhanced Living Environments and Healthcare Systems: A Review](https://www.mdpi.com/2079-9292/8/10/1081): Provides a narrative overview that is positive in nature and emphasises the promise of IoT in the healthcare domain. Challenges common to all IoT technologies are discussed and it is argued that these must be overcome so that the potential benefits of IoT in the healthcare domain can be realised. Like most reviews, it highlights the potential of wearables and smart phones.
+
 ## Reading List
 
 Research papers and other resources that haven't been reviewed yet.
 
-- [Internet of Things Architectures, Technologies, Applications, Challenges, and Future Directions for Enhanced Living Environments and Healthcare Systems: A Review](https://www.mdpi.com/2079-9292/8/10/1081)
+
